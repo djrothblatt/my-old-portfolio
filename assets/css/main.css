@@ -1596,3 +1596,7 @@
 		body.is-loading #footer {
 			opacity: 0;
 		}
+
+                i.lang {
+                    font-size: 128px;
+                }
