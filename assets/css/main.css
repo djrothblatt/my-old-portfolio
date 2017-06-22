@@ -18,6 +18,10 @@
                 vertical-align: baseline;
         }
 
+        table img {
+            width: 100%;
+        }
+
         article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
                 display: block;
         }
@@ -1598,7 +1602,7 @@
                 }
 
                 i.lang {
-                    font-size: 128px;
+                    font-size: 6em;
                 }
 
                 #singuist img {
